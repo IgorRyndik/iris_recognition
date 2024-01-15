@@ -1,0 +1,5 @@
+CASIA-IrisV4(JPG).zip
+CASIA-Iris-Syn
+src/images.npy
+src/labels.npy
+models/mfcc_model_4l_60e_04d_test.h5
